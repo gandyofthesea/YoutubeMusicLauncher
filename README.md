@@ -8,7 +8,9 @@ This is a simple go program that uses your chromium browser of choise to open di
 ## How? 
 Run the install batch file, and it will arrange the required files and create a desktop shortcut, all you have to do is pin it to the taskbar, and complete the first time setup by clicking, and adding the path to your browser.
 
+Download the following files from the release page and store them in the same directory: 
+- YoutubeMusic.exe
+- ym.ico
+- install.bat
 
-## Required
-Golang needs to be installed 
-run "go build" before running the install.bat
+Then just run the install.bat file 
